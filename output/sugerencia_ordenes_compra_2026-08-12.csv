@@ -1,0 +1,15 @@
+﻿proveedor,id_producto,nombre,categoria,almacen,stock_actual,stock_minimo,cantidad_sugerida,precio_unitario,subtotal_orden
+CleanPro Perú,P017,Desinfectante Multiuso 2L,Limpieza,Almacén Norte,5,20,15,18.9,283.5
+DigitalWorld Corp,P003,Laptop UltraSlim 15,Electrónica,Almacén Central,8,10,2,2499.0,4998.0
+DigitalWorld Corp,P005,"Monitor 27"" 4K",Electrónica,Almacén Central,3,10,7,1799.0,12593.0
+DigitalWorld Corp,P028,Router WiFi 6,Electrónica,Almacén Central,14,15,1,449.0,449.0
+DigitalWorld Corp,P029,Impresora Multifuncional,Electrónica,Almacén Central,6,10,4,899.0,3596.0
+DigitalWorld Corp,P034,Proyector Portátil LED,Electrónica,Almacén Central,4,8,4,1599.0,6396.0
+DigitalWorld Corp,P194,Tóner Impresora Laser,Oficina,Almacén Central,6,10,4,249.0,996.0
+Distribuidora Andina,P010,Galletas Integrales Avena,Alimentos,Almacén Sur,15,20,5,8.9,44.5
+Lácteos del Valle,P014,Leche Deslactosada 1L,Bebidas,Almacén Sur,22,30,8,6.9,55.2
+Lácteos del Valle,P066,Bebida de Soja 1L,Bebidas,Almacén Sur,14,15,1,9.9,9.9
+ModaGlobal SAC,P097,Bufanda Lana Invierno,Accesorios,Almacén Central,9,10,1,79.9,79.9
+SportTime Inc,P025,Smartwatch Deportivo,Electrónica,Almacén Central,7,12,5,599.0,2995.0
+SportTime Inc,P101,Cámara Deportiva 4K,Electrónica,Almacén Central,5,8,3,1299.0,3897.0
+TechSupply SA,P002,Tablet Pro 12,Electrónica,Almacén Central,12,15,3,1299.0,3897.0

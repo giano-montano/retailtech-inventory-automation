@@ -1,0 +1,201 @@
+id_producto,nombre,categoria,stock_actual,stock_minimo,precio_unitario,proveedor,almacen,fecha_ultima_reposicion,estado
+P001,Smartphone X100,Electrónica,45,20,899.90,TechSupply SA,Almacén Central,2026-07-15,Activo
+P002,Tablet Pro 12,Electrónica,12,15,1299.00,TechSupply SA,Almacén Central,2026-07-20,Bajo stock
+P003,Laptop UltraSlim 15,Electrónica,8,10,2499.00,DigitalWorld Corp,Almacén Central,2026-08-01,Bajo stock
+P004,Auriculares Bluetooth Pro,Electrónica,120,30,149.90,SoundMax Ltd,Almacén Norte,2026-08-05,Activo
+P005,Monitor 27" 4K,Electrónica,3,10,1799.00,DigitalWorld Corp,Almacén Central,2026-06-10,Crítico
+P006,Teclado Mecánico RGB,Electrónica,67,25,249.90,TechSupply SA,Almacén Norte,2026-07-28,Activo
+P007,Café Orgánico 500g,Alimentos,200,50,24.90,Distribuidora Andina,Almacén Sur,2026-08-08,Activo
+P008,Chocolate Artesanal 70%,Alimentos,85,30,18.50,Distribuidora Andina,Almacén Sur,2026-08-02,Activo
+P009,Aceite de Oliva Extra Virgen 1L,Alimentos,40,25,45.90,Importadora del Sol,Almacén Sur,2026-07-25,Activo
+P010,Galletas Integrales Avena,Alimentos,15,20,8.90,Distribuidora Andina,Almacén Sur,2026-07-30,Bajo stock
+P011,Agua Mineral 500ml 6-pack,Bebidas,300,80,12.50,Embotelladora Nacional,Almacén Sur,2026-08-10,Activo
+P012,Jugo Natural Naranja 1L,Bebidas,95,40,9.90,Embotelladora Nacional,Almacén Sur,2026-08-07,Activo
+P013,Refresco Cola 2L,Bebidas,150,60,7.50,Embotelladora Nacional,Almacén Norte,2026-08-09,Activo
+P014,Leche Deslactosada 1L,Bebidas,22,30,6.90,Lácteos del Valle,Almacén Sur,2026-08-06,Bajo stock
+P015,Detergente Líquido 5L,Limpieza,110,35,29.90,CleanPro Perú,Almacén Norte,2026-08-03,Activo
+P016,Jabón Antibacterial Barra x3,Limpieza,180,40,12.90,CleanPro Perú,Almacén Norte,2026-07-22,Activo
+P017,Desinfectante Multiuso 2L,Limpieza,5,20,18.90,CleanPro Perú,Almacén Norte,2026-06-15,Crítico
+P018,Papel Higiénico 12 rollos,Limpieza,250,50,15.90,Papelesa SA,Almacén Norte,2026-08-08,Activo
+P019,Mochila Urbana 20L,Accesorios,33,15,179.90,ModaGlobal SAC,Almacén Central,2026-07-18,Activo
+P020,Reloj Deportivo Digital,Accesorios,28,12,349.00,SportTime Inc,Almacén Central,2026-07-14,Activo
+P021,Mouse Inalámbrico Ergonómico,Electrónica,95,25,89.90,TechSupply SA,Almacén Norte,2026-08-02,Activo
+P022,Cargador USB-C 65W,Electrónica,150,40,69.90,TechSupply SA,Almacén Central,2026-08-04,Activo
+P023,Parlante Portátil Bluetooth,Electrónica,42,20,199.00,SoundMax Ltd,Almacén Norte,2026-07-19,Activo
+P024,Cámara Web HD 1080p,Electrónica,18,15,159.00,DigitalWorld Corp,Almacén Central,2026-07-12,Activo
+P025,Smartwatch Deportivo,Electrónica,7,12,599.00,SportTime Inc,Almacén Central,2026-06-28,Bajo stock
+P026,Disco Duro Externo 2TB,Electrónica,30,20,349.00,DigitalWorld Corp,Almacén Central,2026-07-22,Activo
+P027,Memoria USB 128GB,Electrónica,200,50,59.90,TechSupply SA,Almacén Norte,2026-08-06,Activo
+P028,Router WiFi 6,Electrónica,14,15,449.00,DigitalWorld Corp,Almacén Central,2026-07-08,Bajo stock
+P029,Impresora Multifuncional,Electrónica,6,10,899.00,DigitalWorld Corp,Almacén Central,2026-06-20,Bajo stock
+P030,Hub USB-C 7 puertos,Electrónica,55,20,129.00,TechSupply SA,Almacén Norte,2026-08-01,Activo
+P031,Cable HDMI 2.1 3m,Electrónica,300,60,29.90,TechSupply SA,Almacén Norte,2026-08-09,Activo
+P032,Silla Ergonómica Oficina,Electrónica,11,10,1299.00,DigitalWorld Corp,Almacén Central,2026-07-05,Activo
+P033,Base Refrigerante Laptop,Electrónica,25,15,119.00,TechSupply SA,Almacén Norte,2026-07-16,Activo
+P034,Proyector Portátil LED,Electrónica,4,8,1599.00,DigitalWorld Corp,Almacén Central,2026-05-30,Crítico
+P035,Batería Externa 20000mAh,Electrónica,88,30,99.90,TechSupply SA,Almacén Norte,2026-08-03,Activo
+P036,Arroz Extra 5kg,Alimentos,350,80,22.90,Distribuidora Andina,Almacén Sur,2026-08-09,Activo
+P037,Azúcar Rubia 2kg,Alimentos,180,50,8.50,Distribuidora Andina,Almacén Sur,2026-08-07,Activo
+P038,Harina de Trigo 1kg,Alimentos,120,40,5.90,Importadora del Sol,Almacén Sur,2026-07-29,Activo
+P039,Aceite Vegetal 1L,Alimentos,95,35,12.90,Importadora del Sol,Almacén Sur,2026-08-05,Activo
+P040,Fideos Spaghetti 1kg,Alimentos,250,60,6.50,Distribuidora Andina,Almacén Sur,2026-08-08,Activo
+P041,Salsa de Tomate 500g,Alimentos,70,30,7.90,Importadora del Sol,Almacén Sur,2026-07-20,Activo
+P042,Atún en Lata 170g,Alimentos,160,50,6.90,Distribuidora Andina,Almacén Sur,2026-08-04,Activo
+P043,Conserva de Durazno 820g,Alimentos,45,25,8.90,Importadora del Sol,Almacén Sur,2026-07-15,Activo
+P044,Mermelada de Fresa 500g,Alimentos,33,20,9.50,Distribuidora Andina,Almacén Sur,2026-07-28,Activo
+P045,Leche Evaporada 400ml,Alimentos,210,60,4.50,Lácteos del Valle,Almacén Sur,2026-08-10,Activo
+P046,Queso Fresco 500g,Alimentos,25,20,15.90,Lácteos del Valle,Almacén Sur,2026-08-06,Activo
+P047,Yogurt Natural 1L,Alimentos,38,25,8.90,Lácteos del Valle,Almacén Sur,2026-08-07,Activo
+P048,Mantequilla con Sal 200g,Alimentos,50,20,7.50,Lácteos del Valle,Almacén Sur,2026-07-31,Activo
+P049,Cereal Integral 500g,Alimentos,62,25,14.90,Importadora del Sol,Almacén Sur,2026-08-02,Activo
+P050,Pan de Molde Integral,Alimentos,28,20,9.90,Distribuidora Andina,Almacén Sur,2026-08-11,Activo
+P051,Lentejas 1kg,Alimentos,90,30,7.90,Distribuidora Andina,Almacén Sur,2026-08-05,Activo
+P052,Frijol Negro 1kg,Alimentos,75,25,8.50,Distribuidora Andina,Almacén Sur,2026-07-22,Activo
+P053,Quinua Blanca 500g,Alimentos,55,20,11.90,Importadora del Sol,Almacén Sur,2026-07-18,Activo
+P054,Nueces Mixtas 200g,Alimentos,17,15,22.90,Importadora del Sol,Almacén Sur,2026-07-10,Activo
+P055,Galletas de Soda Paquete,Alimentos,130,40,5.50,Distribuidora Andina,Almacén Sur,2026-08-03,Activo
+P056,Bebida Energética 500ml,Bebidas,110,35,8.50,Embotelladora Nacional,Almacén Norte,2026-08-08,Activo
+P057,Agua Tónica 1.5L,Bebidas,45,20,4.90,Embotelladora Nacional,Almacén Sur,2026-07-25,Activo
+P058,Té Verde Bolsitas x20,Bebidas,80,25,11.90,Importadora del Sol,Almacén Sur,2026-08-01,Activo
+P059,Bebida Isotónica 750ml,Bebidas,60,25,7.90,Embotelladora Nacional,Almacén Norte,2026-08-04,Activo
+P060,Cerveza Lager 6-pack,Bebidas,140,50,29.90,Cervecera del Sur,Almacén Norte,2026-08-09,Activo
+P061,Vino Tinto Reserva 750ml,Bebidas,36,20,59.90,Importadora del Sol,Almacén Norte,2026-07-14,Activo
+P062,Gaseosa Lima Limón 2L,Bebidas,175,50,7.20,Embotelladora Nacional,Almacén Norte,2026-08-10,Activo
+P063,Agua con Gas 1L,Bebidas,90,30,3.90,Embotelladora Nacional,Almacén Sur,2026-08-06,Activo
+P064,Jugo de Manzana 1L,Bebidas,55,25,8.90,Embotelladora Nacional,Almacén Sur,2026-07-30,Activo
+P065,Leche de Almendras 1L,Bebidas,20,18,12.90,Lácteos del Valle,Almacén Sur,2026-08-02,Activo
+P066,Bebida de Soja 1L,Bebidas,14,15,9.90,Lácteos del Valle,Almacén Sur,2026-07-19,Bajo stock
+P067,Néctar de Durazno 1L,Bebidas,70,30,6.50,Embotelladora Nacional,Almacén Sur,2026-08-05,Activo
+P068,Whisky Escocés 750ml,Bebidas,22,15,149.90,Importadora del Sol,Almacén Norte,2026-07-08,Activo
+P069,Ron Añejo 750ml,Bebidas,18,12,79.90,Importadora del Sol,Almacén Norte,2026-06-25,Activo
+P070,Champán Brut 750ml,Bebidas,10,10,109.00,Importadora del Sol,Almacén Norte,2026-07-02,Activo
+P071,Cloro Gel 4L,Limpieza,95,30,14.90,CleanPro Perú,Almacén Norte,2026-08-07,Activo
+P072,Limpiador de Pisos 2L,Limpieza,70,25,16.90,CleanPro Perú,Almacén Norte,2026-08-04,Activo
+P073,Lavaplatos Líquido 1L,Limpieza,135,40,9.90,CleanPro Perú,Almacén Norte,2026-08-09,Activo
+P074,Esponja Doble Uso x3,Limpieza,200,50,5.90,CleanPro Perú,Almacén Norte,2026-08-10,Activo
+P075,Bolsas de Basura 50L x20,Limpieza,160,45,18.90,Papelesa SA,Almacén Norte,2026-08-08,Activo
+P076,Toallas de Papel 6 rollos,Limpieza,110,35,22.90,Papelesa SA,Almacén Norte,2026-08-05,Activo
+P077,Servilletas 100 unidades,Limpieza,250,60,6.90,Papelesa SA,Almacén Norte,2026-08-06,Activo
+P078,Ambientador en Aerosol,Limpieza,40,20,12.50,CleanPro Perú,Almacén Norte,2026-07-28,Activo
+P079,Limpiacristales 500ml,Limpieza,30,18,14.90,CleanPro Perú,Almacén Norte,2026-07-15,Activo
+P080,Guantes de Limpieza Par,Limpieza,85,30,7.90,CleanPro Perú,Almacén Norte,2026-08-02,Activo
+P081,Trapeador Microfibra,Limpieza,48,20,19.90,CleanPro Perú,Almacén Norte,2026-07-20,Activo
+P082,Escoba Industrial,Limpieza,36,18,24.90,CleanPro Perú,Almacén Norte,2026-07-10,Activo
+P083,Desengrasante Cocina 500ml,Limpieza,55,25,13.50,CleanPro Perú,Almacén Norte,2026-08-03,Activo
+P084,Suavizante de Ropa 2L,Limpieza,75,25,18.90,CleanPro Perú,Almacén Norte,2026-08-07,Activo
+P085,Quitamanchas en Polvo 500g,Limpieza,28,15,22.90,CleanPro Perú,Almacén Norte,2026-07-12,Activo
+P086,Audífonos In-Ear,Electrónica,165,40,59.90,SoundMax Ltd,Almacén Norte,2026-08-08,Activo
+P087,Cable Cargador Lightning,Electrónica,210,50,39.90,TechSupply SA,Almacén Central,2026-08-10,Activo
+P088,Funda Protectora Smartphone,Accesorios,320,80,29.90,ModaGlobal SAC,Almacén Central,2026-08-11,Activo
+P089,Lentes de Sol Polarizados,Accesorios,42,15,89.90,ModaGlobal SAC,Almacén Central,2026-07-25,Activo
+P090,Billetera Cuero Genuino,Accesorios,23,12,129.00,ModaGlobal SAC,Almacén Central,2026-07-08,Activo
+P091,Pulsera Inteligente Fitness,Accesorios,19,10,199.00,SportTime Inc,Almacén Central,2026-07-02,Activo
+P092,Gorra Deportiva Unisex,Accesorios,55,20,49.90,ModaGlobal SAC,Almacén Central,2026-08-01,Activo
+P093,Paraguas Plegable Automático,Accesorios,31,15,59.90,ModaGlobal SAC,Almacén Central,2026-07-15,Activo
+P094,Botella Deportiva 750ml,Accesorios,78,25,34.90,ModaGlobal SAC,Almacén Norte,2026-08-06,Activo
+P095,Maleta de Viaje 25",Accesorios,16,10,399.00,ModaGlobal SAC,Almacén Central,2026-07-05,Activo
+P096,Cinturón Cuero Clásico,Accesorios,27,12,69.90,ModaGlobal SAC,Almacén Central,2026-07-28,Activo
+P097,Bufanda Lana Invierno,Accesorios,9,10,79.90,ModaGlobal SAC,Almacén Central,2026-06-10,Bajo stock
+P098,Calcetines Deportivos x3,Accesorios,140,40,19.90,ModaGlobal SAC,Almacén Central,2026-08-09,Activo
+P099,Morral Impermeable 30L,Accesorios,21,12,249.00,ModaGlobal SAC,Almacén Central,2026-07-18,Activo
+P100,Estuche para Lentes,Accesorios,38,15,29.90,ModaGlobal SAC,Almacén Central,2026-07-30,Activo
+P101,Cámara Deportiva 4K,Electrónica,5,8,1299.00,SportTime Inc,Almacén Central,2026-06-05,Crítico
+P102,Termo Acero Inoxidable 1L,Hogar,65,25,59.90,Importadora del Sol,Almacén Norte,2026-08-04,Activo
+P103,Sartén Antiadherente 28cm,Hogar,40,18,49.90,Importadora del Sol,Almacén Norte,2026-07-22,Activo
+P104,Juego de Cubiertos 24pz,Hogar,22,12,89.90,Importadora del Sol,Almacén Norte,2026-07-10,Activo
+P105,Ollas Acero Inoxidable Set 3pz,Hogar,14,10,249.00,Importadora del Sol,Almacén Norte,2026-07-05,Activo
+P106,Vasos de Vidrio 6pz,Hogar,50,20,29.90,Importadora del Sol,Almacén Norte,2026-08-02,Activo
+P107,Platos Hondo Cerámica 4pz,Hogar,30,15,49.90,Importadora del Sol,Almacén Norte,2026-07-28,Activo
+P108,Repelente de Insectos 200ml,Hogar,85,30,15.90,CleanPro Perú,Almacén Norte,2026-08-08,Activo
+P109,Organizador de Escritorio,Hogar,48,20,39.90,Importadora del Sol,Almacén Norte,2026-08-06,Activo
+P110,Lámpara LED Escritorio,Hogar,35,15,89.90,DigitalWorld Corp,Almacén Central,2026-07-19,Activo
+P111,Almohada Viscoelástica,Hogar,26,12,119.00,Importadora del Sol,Almacén Norte,2026-07-14,Activo
+P112,Extensión Eléctrica 3m,Hogar,120,35,19.90,TechSupply SA,Almacén Norte,2026-08-09,Activo
+P113,Set de Toallas 3pz,Hogar,33,15,79.90,Importadora del Sol,Almacén Norte,2026-07-20,Activo
+P114,Cortina Blackout 2m,Hogar,19,12,69.90,Importadora del Sol,Almacén Norte,2026-07-08,Activo
+P115,Balanza Digital Cocina,Hogar,42,18,49.90,DigitalWorld Corp,Almacén Central,2026-08-01,Activo
+P116,Pilas Alcalinas AA x8,Electrónica,400,100,14.90,TechSupply SA,Almacén Norte,2026-08-11,Activo
+P117,Soporte para Monitor,Hogar,24,12,119.00,DigitalWorld Corp,Almacén Central,2026-07-25,Activo
+P118,Cafetera Eléctrica 12 tazas,Hogar,15,10,149.90,DigitalWorld Corp,Almacén Central,2026-07-02,Activo
+P119,Licuadora 3 velocidades,Hogar,20,12,199.00,DigitalWorld Corp,Almacén Central,2026-07-15,Activo
+P120,Olla Arrocera 1.5L,Hogar,18,10,129.00,DigitalWorld Corp,Almacén Central,2026-07-08,Activo
+P121,Plancha a Vapor,Hogar,13,10,89.90,DigitalWorld Corp,Almacén Central,2026-06-28,Activo
+P122,Champú Anticaspa 400ml,Cuidado Personal,145,40,29.90,CleanPro Perú,Almacén Sur,2026-08-10,Activo
+P123,Acondicionador Reparador 400ml,Cuidado Personal,120,35,29.90,CleanPro Perú,Almacén Sur,2026-08-09,Activo
+P124,Jabón Líquido Manos 500ml,Cuidado Personal,180,50,14.90,CleanPro Perú,Almacén Norte,2026-08-08,Activo
+P125,Desodorante Roll-On 50ml,Cuidado Personal,95,30,19.90,CleanPro Perú,Almacén Sur,2026-08-05,Activo
+P126,Pasta Dental Blanqueadora 120g,Cuidado Personal,200,55,12.90,CleanPro Perú,Almacén Sur,2026-08-07,Activo
+P127,Cepillo Dental Doble Acción,Cuidado Personal,250,70,7.90,CleanPro Perú,Almacén Sur,2026-08-11,Activo
+P128,Enjuague Bucal 500ml,Cuidado Personal,88,30,18.90,CleanPro Perú,Almacén Sur,2026-08-06,Activo
+P129,Protector Solar FPS 50 200ml,Cuidado Personal,60,25,49.90,CleanPro Perú,Almacén Sur,2026-07-30,Activo
+P130,Repelente Mosquitos Spray,Cuidado Personal,72,25,22.90,CleanPro Perú,Almacén Sur,2026-08-03,Activo
+P131,Alcohol en Gel 1L,Cuidado Personal,310,80,16.90,CleanPro Perú,Almacén Norte,2026-08-10,Activo
+P132,Toallas Húmedas Bebé 80un,Cuidado Personal,100,35,13.90,Papelesa SA,Almacén Sur,2026-08-09,Activo
+P133,Pañales Talla M 40un,Cuidado Personal,85,30,49.90,Papelesa SA,Almacén Sur,2026-08-04,Activo
+P134,Hisopos de Algodón 200un,Cuidado Personal,190,50,5.90,CleanPro Perú,Almacén Sur,2026-08-08,Activo
+P135,Afaitadora Desechable x5,Cuidado Personal,135,40,11.90,CleanPro Perú,Almacén Sur,2026-08-07,Activo
+P136,Crema Hidratante Facial 100ml,Cuidado Personal,42,20,39.90,CleanPro Perú,Almacén Sur,2026-07-25,Activo
+P137,Bloqueador Solar Niños FPS 70,Cuidado Personal,34,18,59.90,CleanPro Perú,Almacén Sur,2026-07-20,Activo
+P138,Cortaúñas Acero Inoxidable,Cuidado Personal,75,25,8.90,CleanPro Perú,Almacén Sur,2026-08-02,Activo
+P139,Shampoo Bebé 400ml,Cuidado Personal,55,20,18.90,CleanPro Perú,Almacén Sur,2026-08-01,Activo
+P140,Peine Desenredante Profesional,Cuidado Personal,68,22,14.90,CleanPro Perú,Almacén Sur,2026-07-28,Activo
+P141,Arroz Integral 2kg,Alimentos,95,30,14.90,Distribuidora Andina,Almacén Sur,2026-08-05,Activo
+P142,Pasta de Tomate 200g,Alimentos,110,35,3.90,Importadora del Sol,Almacén Sur,2026-08-06,Activo
+P143,Sardinas en Aceite 155g,Alimentos,88,30,5.90,Distribuidora Andina,Almacén Sur,2026-08-02,Activo
+P144,Maíz Pira 500g,Alimentos,60,20,4.50,Distribuidora Andina,Almacén Sur,2026-07-30,Activo
+P145,Miel de Abeja 500g,Alimentos,28,15,19.90,Importadora del Sol,Almacén Sur,2026-07-22,Activo
+P146,Maní Tostado 250g,Alimentos,42,18,6.90,Distribuidora Andina,Almacén Sur,2026-08-01,Activo
+P147,Pasas Morenas 200g,Alimentos,33,15,5.90,Importadora del Sol,Almacén Sur,2026-07-18,Activo
+P148,Canela en Polvo 100g,Alimentos,50,20,3.50,Importadora del Sol,Almacén Sur,2026-07-25,Activo
+P149,Levadura Instantánea 50g,Alimentos,70,25,2.90,Distribuidora Andina,Almacén Sur,2026-08-08,Activo
+P150,Esencias de Vainilla 60ml,Alimentos,25,12,8.90,Importadora del Sol,Almacén Sur,2026-07-10,Activo
+P151,Bebida de Coco 330ml,Bebidas,40,18,6.90,Embotelladora Nacional,Almacén Sur,2026-08-04,Activo
+P152,Bebida Hidratante Saborizada,Bebidas,65,25,8.50,Embotelladora Nacional,Almacén Norte,2026-08-07,Activo
+P153,Infusión de Manzanilla 20un,Bebidas,82,25,8.90,Importadora del Sol,Almacén Sur,2026-08-09,Activo
+P154,Licor de Crema 750ml,Bebidas,16,12,49.90,Importadora del Sol,Almacén Norte,2026-07-05,Activo
+P155,Pisco Quebranta 750ml,Bebidas,24,15,69.90,Importadora del Sol,Almacén Norte,2026-07-12,Activo
+P156,Mixer de Frutas Congeladas 500g,Bebidas,18,12,14.90,Embotelladora Nacional,Almacén Sur,2026-07-28,Activo
+P157,Endulzante Stevia 100un,Bebidas,55,20,15.90,Importadora del Sol,Almacén Sur,2026-08-03,Activo
+P158,Concentrado de Frutas 750ml,Bebidas,30,15,9.90,Embotelladora Nacional,Almacén Sur,2026-07-20,Activo
+P159,Ropa de Cama Queen 4pz,Hogar,15,8,199.00,Importadora del Sol,Almacén Norte,2026-07-02,Activo
+P160,Colchón Inflable Individual,Hogar,8,8,149.00,Importadora del Sol,Almacén Norte,2026-06-20,Activo
+P161,Espejo de Pared 60x80cm,Hogar,12,10,89.90,Importadora del Sol,Almacén Norte,2026-07-10,Activo
+P162,Perchero de Pie Metálico,Hogar,10,8,69.90,Importadora del Sol,Almacén Norte,2026-07-05,Activo
+P163,Repisa Flotante 60cm,Hogar,18,10,49.90,Importadora del Sol,Almacén Norte,2026-07-25,Activo
+P164,Basurero Acero Inoxidable 12L,Hogar,28,12,59.90,Importadora del Sol,Almacén Norte,2026-08-02,Activo
+P165,Portarrollos de Cocina,Hogar,35,15,19.90,Importadora del Sol,Almacén Norte,2026-07-30,Activo
+P166,Set de Cuchillos Cocina 5pz,Hogar,20,10,119.00,Importadora del Sol,Almacén Norte,2026-07-15,Activo
+P167,Fiambrera Térmica 1.5L,Hogar,52,20,29.90,Importadora del Sol,Almacén Norte,2026-08-05,Activo
+P168,Tupperware Set 8pz,Hogar,45,18,49.90,Importadora del Sol,Almacén Norte,2026-08-08,Activo
+P169,Exprimidor de Cítricos Manual,Hogar,30,12,24.90,Importadora del Sol,Almacén Norte,2026-07-18,Activo
+P170,Portacepillo de Dientes,Hogar,58,20,9.90,CleanPro Perú,Almacén Sur,2026-08-06,Activo
+P171,Lámpara de Noche LED,Hogar,42,18,69.90,DigitalWorld Corp,Almacén Central,2026-07-22,Activo
+P172,Ventilador de Pie 3 velocidades,Hogar,25,15,199.00,DigitalWorld Corp,Almacén Central,2026-07-08,Activo
+P173,Hervidor Eléctrico 1.7L,Hogar,22,15,109.00,DigitalWorld Corp,Almacén Central,2026-07-12,Activo
+P174,Aspiradora Compacta 1200W,Hogar,11,10,349.00,DigitalWorld Corp,Almacén Central,2026-06-25,Activo
+P175,Microondas 20L,Hogar,9,8,499.00,DigitalWorld Corp,Almacén Central,2026-06-18,Activo
+P176,Tostadora Eléctrica 2 ranuras,Hogar,17,12,119.00,DigitalWorld Corp,Almacén Central,2026-07-05,Activo
+P177,Gorra Invierno Tejida,Accesorios,44,18,39.90,ModaGlobal SAC,Almacén Central,2026-07-15,Activo
+P178,Cartera de Mano Sintética,Accesorios,15,10,99.90,ModaGlobal SAC,Almacén Central,2026-07-02,Activo
+P179,Correa para Perro Mediana,Accesorios,22,12,49.90,ModaGlobal SAC,Almacén Central,2026-07-20,Activo
+P180,Set de Pinzas para Cabello,Accesorios,65,25,14.90,ModaGlobal SAC,Almacén Central,2026-08-08,Activo
+P181,Pañoleta Seda Estampada,Accesorios,19,10,59.90,ModaGlobal SAC,Almacén Central,2026-07-08,Activo
+P182,Espejo de Bolsillo Redondo,Accesorios,28,12,19.90,ModaGlobal SAC,Almacén Central,2026-07-25,Activo
+P183,Llavero Metálico,Accesorios,95,30,12.90,ModaGlobal SAC,Almacén Central,2026-08-10,Activo
+P184,Kit de Costura Viajero,Accesorios,40,15,24.90,ModaGlobal SAC,Almacén Central,2026-08-02,Activo
+P185,Candado de Combinación,Accesorios,33,15,34.90,ModaGlobal SAC,Almacén Central,2026-07-28,Activo
+P186,Foco LED 12W Luz Cálida,Hogar,500,120,8.90,TechSupply SA,Almacén Norte,2026-08-11,Activo
+P187,Cinta Adhesiva Transparente,Oficina,350,80,3.50,Papelesa SA,Almacén Central,2026-08-10,Activo
+P188,Tijera Multiuso 21cm,Oficina,90,30,9.90,Papelesa SA,Almacén Central,2026-08-05,Activo
+P189,Cuaderno Universitario 100h,Oficina,220,60,7.90,Papelesa SA,Almacén Central,2026-08-09,Activo
+P190,Corrector Líquido 12ml,Oficina,130,40,4.50,Papelesa SA,Almacén Central,2026-08-07,Activo
+P191,Resaltador Fluorescente x5,Oficina,105,35,12.90,Papelesa SA,Almacén Central,2026-08-04,Activo
+P192,Engrapadora Metálica,Oficina,48,20,19.90,Papelesa SA,Almacén Central,2026-07-30,Activo
+P193,Calculadora Científica,Oficina,25,15,79.90,Papelesa SA,Almacén Central,2026-07-18,Activo
+P194,Tóner Impresora Laser,Oficina,6,10,249.00,DigitalWorld Corp,Almacén Central,2026-06-22,Crítico
+P195,Notas Adhesivas 100h x5,Oficina,180,50,8.90,Papelesa SA,Almacén Central,2026-08-08,Activo
+P196,Cartulina Blanca Pliego,Oficina,280,70,1.50,Papelesa SA,Almacén Central,2026-08-09,Activo
+P197,Alcohol Isopropílico 1L,Limpieza,58,25,22.90,CleanPro Perú,Almacén Norte,2026-08-04,Activo
+P198,Insecticida Eléctrico,Hogar,20,12,49.90,CleanPro Perú,Almacén Norte,2026-07-22,Activo
+P199,Cable Ethernet Cat6 5m,Electrónica,75,25,29.90,TechSupply SA,Almacén Central,2026-08-03,Activo
+P200,Adaptador Bluetooth 5.0,Electrónica,62,20,49.90,SoundMax Ltd,Almacén Central,2026-08-01,Activo

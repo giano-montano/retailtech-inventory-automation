@@ -1,0 +1,15 @@
+﻿id,nombre,categoria,stock,minimo,pct_cubierto,deficit,valor_inventario,proveedor,almacen,estado
+P017,Desinfectante Multiuso 2L,Limpieza,5,20,25.0,15,94.5,CleanPro Perú,Almacén Norte,Crítico
+P005,"Monitor 27"" 4K",Electrónica,3,10,30.0,7,5397.0,DigitalWorld Corp,Almacén Central,Crítico
+P034,Proyector Portátil LED,Electrónica,4,8,50.0,4,6396.0,DigitalWorld Corp,Almacén Central,Crítico
+P025,Smartwatch Deportivo,Electrónica,7,12,58.3,5,4193.0,SportTime Inc,Almacén Central,Bajo stock
+P029,Impresora Multifuncional,Electrónica,6,10,60.0,4,5394.0,DigitalWorld Corp,Almacén Central,Bajo stock
+P194,Tóner Impresora Laser,Oficina,6,10,60.0,4,1494.0,DigitalWorld Corp,Almacén Central,Crítico
+P101,Cámara Deportiva 4K,Electrónica,5,8,62.5,3,6495.0,SportTime Inc,Almacén Central,Crítico
+P014,Leche Deslactosada 1L,Bebidas,22,30,73.3,8,151.8,Lácteos del Valle,Almacén Sur,Bajo stock
+P010,Galletas Integrales Avena,Alimentos,15,20,75.0,5,133.5,Distribuidora Andina,Almacén Sur,Bajo stock
+P002,Tablet Pro 12,Electrónica,12,15,80.0,3,15588.0,TechSupply SA,Almacén Central,Bajo stock
+P003,Laptop UltraSlim 15,Electrónica,8,10,80.0,2,19992.0,DigitalWorld Corp,Almacén Central,Bajo stock
+P097,Bufanda Lana Invierno,Accesorios,9,10,90.0,1,719.1,ModaGlobal SAC,Almacén Central,Bajo stock
+P028,Router WiFi 6,Electrónica,14,15,93.3,1,6286.0,DigitalWorld Corp,Almacén Central,Bajo stock
+P066,Bebida de Soja 1L,Bebidas,14,15,93.3,1,138.6,Lácteos del Valle,Almacén Sur,Bajo stock
