@@ -5,6 +5,28 @@
         "hooks": [
           { "type": "command", "command": "echo \"RetailTech project session has started\"" }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/cargar_contexto.py",
+            "shell": "bash",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"${CLAUDE_PROJECT_DIR:-.}\" && mkdir -p output && printf '%s\\n' \"[$(date '+%Y-%m-%d %H:%M:%S')] Sesion finalizada.\" >> output/sesiones.log",
+            "shell": "bash",
+            "timeout": 10
+          }
+        ]
       }
     ]
   }
