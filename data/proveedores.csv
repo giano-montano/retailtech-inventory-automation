@@ -1,0 +1,17 @@
+﻿proveedor_id,nombre,categoria,pais,lead_time_dias,contacto,email
+PR01,Importadora LíneaBlanca Norte S.A.C.,Línea Blanca,Perú,15,Contacto PR01,ventas@pr01.retailtech.pe
+PR02,Importadora LíneaBlanca Sur S.A.C.,Línea Blanca,Perú,19,Contacto PR02,ventas@pr02.retailtech.pe
+PR03,Importadora TVyAudio Norte S.A.C.,TV y Audio,Chile,18,Contacto PR03,ventas@pr03.retailtech.pe
+PR04,Importadora TVyAudio Sur S.A.C.,TV y Audio,Chile,18,Contacto PR04,ventas@pr04.retailtech.pe
+PR05,Importadora PequeñosElectrodomésticos Norte S.A.C.,Pequeños Electrodomésticos,China,8,Contacto PR05,ventas@pr05.retailtech.pe
+PR06,Importadora PequeñosElectrodomésticos Sur S.A.C.,Pequeños Electrodomésticos,China,10,Contacto PR06,ventas@pr06.retailtech.pe
+PR07,Importadora Cómputo Norte S.A.C.,Cómputo,México,18,Contacto PR07,ventas@pr07.retailtech.pe
+PR08,Importadora Cómputo Sur S.A.C.,Cómputo,México,16,Contacto PR08,ventas@pr08.retailtech.pe
+PR09,Importadora CelularesyTablets Norte S.A.C.,Celulares y Tablets,Corea del Sur,14,Contacto PR09,ventas@pr09.retailtech.pe
+PR10,Importadora CelularesyTablets Sur S.A.C.,Celulares y Tablets,Corea del Sur,14,Contacto PR10,ventas@pr10.retailtech.pe
+PR11,Importadora Climatización Norte S.A.C.,Climatización,Brasil,17,Contacto PR11,ventas@pr11.retailtech.pe
+PR12,Importadora Climatización Sur S.A.C.,Climatización,Brasil,14,Contacto PR12,ventas@pr12.retailtech.pe
+PR13,Importadora CuidadoPersonal Norte S.A.C.,Cuidado Personal,Perú,8,Contacto PR13,ventas@pr13.retailtech.pe
+PR14,Importadora CuidadoPersonal Sur S.A.C.,Cuidado Personal,Perú,8,Contacto PR14,ventas@pr14.retailtech.pe
+PR15,Importadora Accesorios Norte S.A.C.,Accesorios,Chile,11,Contacto PR15,ventas@pr15.retailtech.pe
+PR16,Importadora Accesorios Sur S.A.C.,Accesorios,Chile,8,Contacto PR16,ventas@pr16.retailtech.pe

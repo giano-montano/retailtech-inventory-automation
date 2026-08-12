@@ -1,0 +1,81 @@
+﻿orden_id,fecha,proveedor_id,producto_id,producto,cantidad,precio_unitario,total,estado
+OC-0001,2026-02,PR08,P081,Masajeador eléctrico,38,244.56,9293.28,en transito
+OC-0002,2026-02,PR10,P068,Deshumidificador,24,1018.57,24445.68,en transito
+OC-0003,2025-10,PR11,P023,Barra Bose 900,198,1867.19,369703.62,emitida
+OC-0004,2026-03,PR02,P034,Batidora KitchenAid,173,305.55,52860.15,emitida
+OC-0005,2026-07,PR01,P067,Humidificador,132,1100.52,145268.64,recibida
+OC-0006,2026-02,PR13,P043,Monitor BenQ 32,45,2971.09,133699.05,en transito
+OC-0007,2026-06,PR03,P083,Kit de manicura,44,115.68,5089.92,en transito
+OC-0008,2026-05,PR02,P079,Afeitadora Braun,39,593.25,23136.75,cancelada
+OC-0009,2025-09,PR12,P004,Lavadora LG 15kg,13,2478.23,32216.99,emitida
+OC-0010,2025-10,PR04,P045,Impresora HP LaserJet,107,2342.61,250659.27,recibida
+OC-0011,2025-11,PR04,P038,Laptop Lenovo ThinkPad,142,924.29,131249.18,recibida
+OC-0012,2025-12,PR03,P035,Tostadora Oster,54,604.45,32640.3,recibida
+OC-0013,2025-10,PR01,P075,Afeitadora Philips,152,359.45,54636.4,recibida
+OC-0014,2026-02,PR13,P070,Climatizador evaporativo,104,914.13,95069.52,recibida
+OC-0015,2026-03,PR07,P018,Soundbar Samsung 5.1,136,2536.65,344984.4,cancelada
+OC-0016,2026-05,PR11,P051,Smartphone Xiaomi Redmi,197,1879.13,370188.61,recibida
+OC-0017,2026-08,PR03,P045,Impresora HP LaserJet,73,2342.61,171010.53,emitida
+OC-0018,2026-06,PR15,P030,Cafetera DeLonghi,68,411.94,28011.92,recibida
+OC-0019,2025-11,PR07,P037,Laptop HP 15,137,2094.74,286979.38,emitida
+OC-0020,2025-09,PR11,P064,Ventilador de pie,9,593.3,5339.7,recibida
+OC-0021,2026-04,PR06,P060,Smartphone Motorola G84,98,2022.02,198157.96,emitida
+OC-0022,2025-09,PR13,P068,Deshumidificador,19,1018.57,19352.83,cancelada
+OC-0023,2025-12,PR07,P076,Cortadora de cabello Wahl,197,545.37,107437.89,cancelada
+OC-0024,2025-12,PR11,P030,Cafetera DeLonghi,199,411.94,81976.06,cancelada
+OC-0025,2025-11,PR05,P072,Terma eléctrica,64,1473.8,94323.2,en transito
+OC-0026,2025-09,PR06,P017,TV OLED LG 65,63,2946.51,185630.13,en transito
+OC-0027,2026-04,PR09,P038,Laptop Lenovo ThinkPad,10,924.29,9242.9,emitida
+OC-0028,2025-10,PR03,P035,Tostadora Oster,130,604.45,78578.5,recibida
+OC-0029,2026-04,PR15,P040,Laptop Dell Inspiron,56,1170.5,65548.0,recibida
+OC-0030,2026-04,PR01,P075,Afeitadora Philips,199,359.45,71530.55,cancelada
+OC-0031,2026-04,PR13,P043,Monitor BenQ 32,61,2971.09,181236.49,recibida
+OC-0032,2025-09,PR07,P017,TV OLED LG 65,57,2946.51,167951.07,en transito
+OC-0033,2025-11,PR03,P041,Monitor LG 27,121,980.16,118599.36,emitida
+OC-0034,2026-08,PR16,P012,Lavaplatos Frigidaire,162,1045.34,169345.08,en transito
+OC-0035,2026-06,PR13,P029,Hervidor eléctrico Bosch,100,500.49,50049.0,cancelada
+OC-0036,2026-04,PR08,P062,AC Samsung Inverter,115,1421.77,163503.55,en transito
+OC-0037,2026-06,PR05,P008,Cocina a gas Indurama 4H,59,3072.06,181251.54,cancelada
+OC-0038,2025-12,PR06,P057,Cargador inalámbrico,141,2553.78,360082.98,cancelada
+OC-0039,2025-09,PR10,P015,Smart TV Sony 75,180,1558.08,280454.4,cancelada
+OC-0040,2025-12,PR11,P022,Audífonos Sony WH-1000,149,1727.78,257439.22,emitida
+OC-0041,2026-05,PR12,P058,Funda protectora,14,1406.56,19691.84,en transito
+OC-0042,2026-02,PR10,P039,Laptop Asus VivoBook,34,1397.47,47513.98,cancelada
+OC-0043,2026-02,PR11,P042,Monitor Samsung 24,172,2538.28,436584.16,recibida
+OC-0044,2026-02,PR02,P024,Receptor AV Yamaha,22,1811.48,39852.56,en transito
+OC-0045,2026-07,PR05,P006,Lavadora Whirlpool 14kg,89,1461.59,130081.51,emitida
+OC-0046,2025-10,PR11,P025,Licuadora Oster 700W,40,403.41,16136.4,en transito
+OC-0047,2025-09,PR12,P072,Terma eléctrica,153,1473.8,225491.4,cancelada
+OC-0048,2026-02,PR05,P026,Licuadora Philips 1000W,23,351.89,8093.47,emitida
+OC-0049,2025-12,PR01,P046,All-in-one Dell,149,1980.81,295140.69,recibida
+OC-0050,2025-10,PR08,P079,Afeitadora Braun,30,593.25,17797.5,recibida
+OC-0051,2026-06,PR12,P056,Auriculares AirPods,41,2205.43,90422.63,cancelada
+OC-0052,2026-08,PR06,P009,Cocina eléctrica Mabe 4H,167,2777.0,463759.0,emitida
+OC-0053,2026-08,PR15,P023,Barra Bose 900,47,1867.19,87757.93,en transito
+OC-0054,2025-09,PR10,P019,Soundbar JBL 2.1,48,2235.96,107326.08,emitida
+OC-0055,2026-05,PR06,P085,Cable HDMI 2m,112,521.11,58364.32,cancelada
+OC-0056,2025-12,PR06,P006,Lavadora Whirlpool 14kg,168,1461.59,245547.12,recibida
+OC-0057,2025-09,PR03,P002,Refrigeradora Samsung 450L,104,2799.88,291187.52,emitida
+OC-0058,2025-10,PR16,P053,Tablet Samsung Galaxy Tab,63,3376.54,212722.02,cancelada
+OC-0059,2026-06,PR12,P057,Cargador inalámbrico,66,2553.78,168549.48,recibida
+OC-0060,2026-03,PR16,P045,Impresora HP LaserJet,149,2342.61,349048.89,en transito
+OC-0061,2025-10,PR12,P011,Horno empotrado Electrolux,80,2084.28,166742.4,en transito
+OC-0062,2026-06,PR15,P035,Tostadora Oster,115,604.45,69511.75,recibida
+OC-0063,2026-01,PR02,P002,Refrigeradora Samsung 450L,107,2799.88,299587.16,cancelada
+OC-0064,2026-06,PR06,P046,All-in-one Dell,53,1980.81,104982.93,cancelada
+OC-0065,2025-10,PR15,P020,Home theater Sony,51,922.78,47061.78,recibida
+OC-0066,2026-01,PR05,P071,Calefón a gas,7,867.28,6070.96,emitida
+OC-0067,2026-04,PR01,P022,Audífonos Sony WH-1000,64,1727.78,110577.92,en transito
+OC-0068,2026-08,PR03,P033,Plancha a vapor Rowenta,7,210.3,1472.1,emitida
+OC-0069,2026-06,PR10,P001,Refrigeradora LG 340L,185,1932.38,357490.3,en transito
+OC-0070,2026-02,PR10,P084,Balanza digital,49,464.58,22764.42,recibida
+OC-0071,2025-10,PR08,P071,Calefón a gas,140,867.28,121419.2,recibida
+OC-0072,2026-08,PR02,P076,Cortadora de cabello Wahl,100,545.37,54537.0,emitida
+OC-0073,2026-03,PR12,P020,Home theater Sony,184,922.78,169791.52,emitida
+OC-0074,2025-09,PR08,P071,Calefón a gas,93,867.28,80657.04,en transito
+OC-0075,2026-07,PR15,P027,Microondas LG 32L,97,126.35,12255.95,emitida
+OC-0076,2025-12,PR13,P034,Batidora KitchenAid,169,305.55,51637.95,emitida
+OC-0077,2025-09,PR03,P057,Cargador inalámbrico,170,2553.78,434142.6,emitida
+OC-0078,2026-03,PR12,P052,Tablet iPad 10,12,1919.08,23028.96,emitida
+OC-0079,2026-02,PR03,P038,Laptop Lenovo ThinkPad,94,924.29,86883.26,en transito
+OC-0080,2026-06,PR01,P038,Laptop Lenovo ThinkPad,71,924.29,65624.59,en transito
